@@ -110,7 +110,7 @@ Codex 是 OpenAI 推出的 AI 编程代理，能够理解整个代码仓库、�
 
 如果你已升级 ChatGPT Plus / Pro / Team，推荐使用 ChatGPT 桌面客户端，体验比网页端更流畅，支持系统级快捷键唤起，还能与本地 IDE 联动：
 
-1. **下载桌面客户端**：访问 `https://openai.com/chatgpt/desktop/` 下载对应版本（支持 macOS 和 Windows），也可在 Mac App Store / Microsoft Store 搜索「ChatGPT」安装。
+1. **下载桌面客户端**：访问 `https://chatgpt.com/zh-Hans-CN/codex/` 下载对应版本（支持 macOS 和 Windows），也可在 Mac App Store / Microsoft Store 搜索「ChatGPT」安装。
 2. **登录 Plus 账号**：打开客户端，使用你的 ChatGPT Plus / Pro / Team 账号登录。
 3. **选择 Codex**：在左侧导航中点击「Codex」标签，进入 Codex 工作台。
 4. **关联 GitHub 仓库**：按提示连接你的 GitHub 账号，选择需要处理的代码仓库。
