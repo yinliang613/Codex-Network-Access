@@ -36,7 +36,7 @@ OpenAI 的服务在国内无法直接访问，需要借助网络代理工具（�
 >
 > ✅ 多节点选择　✅ 低延迟　✅ 全平台支持　✅ 新用户优惠
 >
-> [立即注册使用](https://www.xiguajiasu8.com/?path=register\&code=NkHYNhHc)
+> [立即注册使用](https://hacc.dxwebg.com/register?code=NkHYNhHc)
 
 ### 使用步骤
 
